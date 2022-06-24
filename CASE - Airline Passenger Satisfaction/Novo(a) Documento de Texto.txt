@@ -1,0 +1,15 @@
+This is my entry for #MavenAirlinessChallenger. Maven Analytics Chris Dutton
+Challenge here is to provide insights to improve customer satisfaction.
+
+My Steps: 
+1. Exploratory data analysis:
+The main tool used in this step it was Excel because the data set is small and Excel gives us different tools that let us analyze the data easily.
+2. Data visualization
+The main tool used is this step it was Power Bi because is really nice to visualizations and self-service BI.
+
+Follow final result, i hope you like it and i would like feedback to improve more and more since i need a lot to improve.
+
+Datasource: https://lnkd.in/dgsjDs4P
+Portfolio : https://lnkd.in/dawAHNHJ
+
+#dataanalyst #businessinteligence #mavenanalytics #data
